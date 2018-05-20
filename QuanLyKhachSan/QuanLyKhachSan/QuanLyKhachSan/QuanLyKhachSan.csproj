@@ -51,6 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controller\Connection.cs" />
     <Compile Include="Layout\QLPhong.cs">
       <SubType>UserControl</SubType>
     </Compile>
